@@ -1,0 +1,106 @@
+[
+  {
+    "Id": 1,
+    "Type": "Œniadanie",
+    "Produkty": [
+      {
+        "Id": 1,
+        "Name": "Jajko",
+        "Type": "Przystawka",
+        "Calories": 20,
+        "Price": 5,
+        "IsWegan": true
+
+      },
+      {
+        "Id": 2,
+        "Name": "Kapusta",
+        "Type": "Przystawka",
+        "Calories": 150,
+        "Price": 13,
+        "IsWegan": true
+      },
+      {
+        "Id": 3,
+        "Name": "Kie³ki",
+        "Type": "Przystawka",
+        "Calories": 200,
+        "Price": 17,
+        "IsWegan": true
+      }
+
+
+    ]
+  },
+  {
+    "Id": 2,
+    "Type": "G³ówne",
+    "Produkty": [
+      {
+        "Id": 1,
+        "Name": "Boczek",
+        "Type": "G³ówne",
+        "Calories": 60,
+        "Price": 8,
+        "IsWegan": false
+
+      },
+      {
+        "Id": 2,
+        "Name": "Szynka",
+        "Type": "G³ówne",
+        "Calories": 80,
+        "Price": 9,
+        "IsWegan": false
+      },
+      {
+        "Id": 3,
+        "Name": "Kanapki z kurczakiem",
+        "Type": "G³ówne",
+        "Calories": 300,
+        "Price": 12,
+        "IsWegan": false
+      },
+      {
+        "Id": 4,
+        "Name": "Omlet z pomidorami",
+        "Type": "G³ówne",
+        "Calories": 421,
+        "Price": 15,
+        "IsWegan": true
+      }
+
+    ]
+  },
+  {
+    "Id": 3,
+    "Type": "Deser",
+    "Produkty": [
+      {
+        "Id": 1,
+        "Name": "Jogurt",
+        "Type": "Deser",
+        "Calories": 120,
+        "Price": 4,
+        "IsWegan": true
+
+      },
+      {
+        "Id": 2,
+        "Name": "Batonik",
+        "Type": "Deser",
+        "Calories": 420,
+        "Price": 12,
+        "IsWegan": true
+      },
+      {
+        "Id": 3,
+        "Name": "Ciastko",
+        "Type": "Deser",
+        "Calories": 320,
+        "Price": 3,
+        "IsWegan": true
+      }
+
+    ]
+  }
